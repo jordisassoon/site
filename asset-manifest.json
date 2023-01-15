@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/jordisassoon/site/static/css/main.06ff0d76.css",
+    "main.js": "/jordisassoon/site/static/js/main.303aab10.js",
+    "static/js/787.bf417d57.chunk.js": "/jordisassoon/site/static/js/787.bf417d57.chunk.js",
+    "static/media/shops.jpg": "/jordisassoon/site/static/media/shops.538582a8528ec3876422.jpg",
+    "static/media/car.jpg": "/jordisassoon/site/static/media/car.0f5a24a63a278dc0f537.jpg",
+    "static/media/smoke.jpg": "/jordisassoon/site/static/media/smoke.547ae0b3de7d389e5fff.jpg",
+    "static/media/whitsundays.jpg": "/jordisassoon/site/static/media/whitsundays.502469c620137546bc46.jpg",
+    "static/media/profile.JPEG": "/jordisassoon/site/static/media/profile.817b2bab63ae1d1e1cc8.JPEG",
+    "static/media/surfer.jpg": "/jordisassoon/site/static/media/surfer.20dade3797fc644cc82c.jpg",
+    "index.html": "/jordisassoon/site/index.html",
+    "main.06ff0d76.css.map": "/jordisassoon/site/static/css/main.06ff0d76.css.map",
+    "main.303aab10.js.map": "/jordisassoon/site/static/js/main.303aab10.js.map",
+    "787.bf417d57.chunk.js.map": "/jordisassoon/site/static/js/787.bf417d57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06ff0d76.css",
+    "static/js/main.303aab10.js"
+  ]
+}
