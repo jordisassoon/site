@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/site/static/css/main.e6b61ae3.css",
-    "main.js": "/site/static/js/main.33a138c3.js",
+    "main.js": "/site/static/js/main.f9cc36a6.js",
     "static/js/787.bf417d57.chunk.js": "/site/static/js/787.bf417d57.chunk.js",
-    "static/media/shops.jpg": "/site/static/media/shops.538582a8528ec3876422.jpg",
     "static/media/car.jpg": "/site/static/media/car.0f5a24a63a278dc0f537.jpg",
     "static/media/smoke.jpg": "/site/static/media/smoke.547ae0b3de7d389e5fff.jpg",
     "static/media/whitsundays.jpg": "/site/static/media/whitsundays.502469c620137546bc46.jpg",
     "static/media/profile.JPEG": "/site/static/media/profile.817b2bab63ae1d1e1cc8.JPEG",
     "static/media/surfer.jpg": "/site/static/media/surfer.20dade3797fc644cc82c.jpg",
+    "static/media/gibsons.jpg": "/site/static/media/gibsons.6e62b03f42c6f52cc9e3.jpg",
     "index.html": "/site/index.html",
     "main.e6b61ae3.css.map": "/site/static/css/main.e6b61ae3.css.map",
-    "main.33a138c3.js.map": "/site/static/js/main.33a138c3.js.map",
+    "main.f9cc36a6.js.map": "/site/static/js/main.f9cc36a6.js.map",
     "787.bf417d57.chunk.js.map": "/site/static/js/787.bf417d57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6b61ae3.css",
-    "static/js/main.33a138c3.js"
+    "static/js/main.f9cc36a6.js"
   ]
 }
